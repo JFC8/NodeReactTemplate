@@ -1,2 +1,2 @@
 # NodeReactTemplate
-Node + React - Initial configuration to run both servers.
+Node + React - Initial configuration - Backend Node - Frontend React.
